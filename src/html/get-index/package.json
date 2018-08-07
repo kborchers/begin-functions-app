@@ -1,0 +1,7 @@
+{
+  "name": "vigor-t3q-get-index",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
